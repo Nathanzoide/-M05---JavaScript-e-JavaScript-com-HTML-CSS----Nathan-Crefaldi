@@ -1,0 +1,39 @@
+1 - O que são objetos em JavaScript?
+
+R: Objetos são estruturas de dados que representam uma entidade. 
+Eles podem conter propriedades, que são pares de chave-valor, 
+onde a chave é uma string e o valor pode ser de qualquer tipo de dado, 
+incluindo outros objetos.
+
+2 - O que são atributos em JavaScript?
+
+R: Em JavaScript, o termo "atributo" não é usado da mesma forma que em algumas
+outras linguagens de programação. Em JavaScript, geralmente referimos às propriedades
+de um objeto como atributos. Portanto, um atributo seria simplesmente uma chave-valor 
+dentro de um objeto.
+
+3 - O que são métodos de classe em JavaScript?
+
+R: Métodos de classe em JavaScript são funções associadas a uma classe. 
+Eles são definidos dentro do bloco da classe e podem ser chamados em instâncias 
+dessa classe. Os métodos permitem que objetos realizem ações específicas ou 
+executem operações.
+
+4 - O que é uma classe em JavaScript?
+
+R: Uma classe em JavaScript é um tipo de construtor que fornece uma estrutura 
+para criar objetos. Ela serve como um modelo para criar instâncias (objetos) 
+que compartilham características e comportamentos comuns. A introdução de classes 
+no ECMAScript 6 (ES6) trouxe uma sintaxe mais familiar e orientada a objetos ao JavaScript.
+
+5 - O que é o construtor de uma classe em JavaScript?
+
+R: O construtor de uma classe é um método especial chamado constructor que é invocado 
+automaticamente quando uma nova instância da classe é criada. Ele é usado para inicializar 
+os membros da classe e realizar quaisquer outras tarefas de configuração necessárias quando 
+um objeto é instanciado.
+
+6 - Explique o conceito de herança de classes em JavaScript. Dê um exemplo de uma herança em JavaScript.
+
+R: A herança em JavaScript permite que uma classe herde propriedades e métodos de outra classe, 
+estabelecendo uma relação de "é um" entre as classes. Isso é alcançado usando a palavra-chave extends.
